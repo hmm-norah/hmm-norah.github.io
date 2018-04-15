@@ -6,7 +6,7 @@ paginate_path: /blog/page:num #makes pagination working
 
 # header text
 title: Norah
-header: Making my way downtown...
+header: making my way downtown
 
 # for welcome page
 # to replace image go to index.html
@@ -15,12 +15,12 @@ email:
   text: "div at pdx.edu"
 
 # disqus comment
-disqus:
-    shortname: "Disqus test" #your disqus comment short name
+#disqus:
+#    shortname: "Disqus test" #your disqus comment short name
 
 # google analytics
 google:
-    tracking-id: "" #your tracking id here
+    tracking-id: "UA-56393460-1" #your tracking id here
 
 gems:
   - jekyll-sitemap

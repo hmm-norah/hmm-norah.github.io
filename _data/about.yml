@@ -1,55 +1,78 @@
 text: |
 
-  Write something about yourself here using markdown.
+  Hi, I'm Norah. I'm an aspiring programmer with an interest in security, emulation, and games. I was
+  born in Oregon, and now live in Portland with my partner and our two cats.
 
-  ## Lists
+  
 
-  Unordered
+  ## Recommendations
+  Podcasts
+  + Giantbomb
+  + Tone Control
+  + Waypoint
+  + My Brother, My Brother, and Me
+  + Coffee with Chrachel
 
-  + Create a list by starting a line with `+`, `-`, or `*`
-  + Sub-lists are made by indenting 2 spaces:
-    - Marker character change forces new list start:
-      * Ac tristique libero volutpat at
-      + Facilisis in pretium nisl aliquet
-      - Nulla volutpat aliquam velit
-  + Very easy!
+  Games
+  + Stardew Valley
+  + Gone Home
+  + Splatoon 2
+  + Night in the Woods
 
-  Ordered
+  TV
+  + The Good Place
+  + Pretty Little Liars
+  + Star Trek
+  + Crazy Ex-Girlfriend
 
-  1. Lorem ipsum dolor sit amet
-  2. Consectetur adipiscing elit
-  3. Integer molestie lorem at massa
+#  ## Lists
 
+# Unordered
 
-  1. You can use sequential numbers...
-  1. ...or keep all the numbers as `1.`
+# + Create a list by starting a line with `+`, `-`, or `*`
+# + Sub-lists are made by indenting 2 spaces:
+#   - Marker character change forces new list start:
+#     * Ac tristique libero volutpat at
+#     + Facilisis in pretium nisl aliquet
+#     - Nulla volutpat aliquam velit
+# + Very easy!
 
-  Start numbering with offset:
+# Ordered
 
-  57. foo
-  1. bar
-
-  ## Tables
-
-  | Option | Description |
-  | ------ | ----------- |
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
-
-  Right aligned columns
-
-  | Option | Description |
-  | ------:| -----------:|
-  | data   | path to data files to supply the data that will be passed into templates. |
-  | engine | engine to be used for processing templates. Handlebars is the default. |
-  | ext    | extension to be used for dest files. |
+# 1. Lorem ipsum dolor sit amet
+# 2. Consectetur adipiscing elit
+# 3. Integer molestie lorem at massa
 
 
-  ## Links
+# 1. You can use sequential numbers...
+# 1. ...or keep all the numbers as `1.`
 
-  [link text](https://github.com)
+# Start numbering with offset:
 
-  [link with title](https://github.com/ "title text!")
+# 57. foo
+# 1. bar
 
-  Autoconverted link https://github.com (enable linkify to see)
+# ## Tables
+
+# | Option | Description |
+# | ------ | ----------- |
+# | data   | path to data files to supply the data that will be passed into templates. |
+# | engine | engine to be used for processing templates. Handlebars is the default. |
+# | ext    | extension to be used for dest files. |
+
+# Right aligned columns
+
+# | Option | Description |
+# | ------:| -----------:|
+# | data   | path to data files to supply the data that will be passed into templates. |
+# | engine | engine to be used for processing templates. Handlebars is the default. |
+# | ext    | extension to be used for dest files. |
+
+
+# ## Links
+
+# [link text](https://github.com)
+
+# [link with title](https://github.com/ "title text!")
+
+# Autoconverted link https://github.com (enable linkify to see)

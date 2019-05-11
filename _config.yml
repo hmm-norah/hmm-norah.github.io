@@ -19,7 +19,7 @@ locale: en-US
 title: "Norah Morris"
 description: "I think dogs should vote."
 baseurl: # the subpath of your site, e.g. "/blog"
-url: norah.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://norah.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
@@ -87,10 +87,10 @@ defaults:
 
 # Site Author
 author:
-  name:
+  name: Norah Morris
   picture:
-  email:
-  twitter:
+  email: hello@norah.xyz
+  twitter: hmm_norah
   links:
     - title:
       url:

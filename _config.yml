@@ -17,7 +17,7 @@
 theme: jekyll-theme-so-simple
 locale: en-US
 title: "Norah Morris"
-description: "I think dogs should vote."
+description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://norah.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 logo: # path of site logo, e.g. "/images/logo.png"

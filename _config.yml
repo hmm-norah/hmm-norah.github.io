@@ -89,8 +89,8 @@ defaults:
 author:
   name: Norah Morris
   picture:
-  email: hello@norah.xyz
-  twitter: hmm_norah
+  email:
+  twitter:
   links:
     - title:
       url:

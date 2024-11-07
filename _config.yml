@@ -16,7 +16,7 @@
 # theme: jekyll-theme-so-simple
 theme: jekyll-theme-so-simple
 locale: en-US
-title: "Norah Morris"
+title: "Norah"
 description: ""
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://norah.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -87,7 +87,7 @@ defaults:
 
 # Site Author
 author:
-  name: Norah Morris
+  name: Norah M.
   picture:
   email:
   twitter:
